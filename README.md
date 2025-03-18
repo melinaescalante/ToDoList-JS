@@ -1,18 +1,17 @@
 # To Do List - JS
-PWA creada para tener un registro de las actividades que los usuarios deben realizar. 
-Se desarrolló con JavaScript y Firebase.
-## Funcionalidades:
-- Crear nota
-- Titulo
-- Descripción
-- Añadir fecha límite si es necesario
+PWA created to record user activities. It was developed with JavaScript and Firebase.
+## Functionalities:
+- Create note
+- Title
+- Description
+- Add deadline if it has to
 
-## Interfaz:
-  - Se muestran las tareas
-  - Eliminar tareas
-  - Ver detalle
+## Interface:
+ - Tasks are displayed
+- Delete tasks
+- View details
  
-## Imágenes
+## Interface images
     
 ![image](https://github.com/user-attachments/assets/63a5c3f9-cedf-4573-a14c-37ee7c944cd7)
 ![image](https://github.com/user-attachments/assets/84626249-1e1d-4c1f-b4d5-7bec2b48b5c6)
